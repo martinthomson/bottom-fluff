@@ -6,7 +6,6 @@ docname: draft-thomson-rswg-bottom-fluff-latest
 submissiontype: editorial  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
-consensus: true
 v: 3
 area: "RFC Editor"
 workgroup: "RFC Series Working Group"
