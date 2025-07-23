@@ -2,36 +2,38 @@
 
 
 
-WG Working Group                                              Y. N. Here
+RFC Series Working Group                                      M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Informational                              23 July 2025
-Expires: 24 January 2026
+Intended status: Informational                               D. Schinazi
+Expires: 24 January 2026                                          Google
+                                                            23 July 2025
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+       Making RFC and Internet-Draft Boilerplate Less Conspicuous
+                 draft-thomson-rswg-bottom-fluff-latest
 
 Abstract
 
-   This document establishes a new policy for RFCs that moves all the
-   fluff (copyright notices and that sort of thing) to the bottom of
-   documents.
+   This document establishes a new policy for RFCs and Internet-Drafts
+   that moves all the fluff (copyright notices and that sort of thing)
+   to the bottom of documents.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   https://martinthomson.github.io/bottom-fluff/draft-thomson-rswg-
+   bottom-fluff.html.  Status information for this document may be found
+   at https://datatracker.ietf.org/doc/draft-thomson-rswg-bottom-fluff/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the RFC Series Working
+   Group Editorial Stream Working Group mailing list (mailto:rswg@rfc-
+   editor.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/rswg/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/martinthomson/bottom-fluff.
 
 Status of This Memo
 
@@ -59,10 +61,7 @@ Copyright Notice
    Provisions Relating to IETF Documents (https://trustee.ietf.org/
    license-info) in effect on the date of publication of this document.
    Please review these documents carefully, as they describe your rights
-   and restrictions with respect to this document.  Code Components
-   extracted from this document must include Revised BSD License text as
-   described in Section 4.e of the Trust Legal Provisions and are
-   provided without warranty as described in the Revised BSD License.
+   and restrictions with respect to this document.
 
 
 1.  New Policy
@@ -70,9 +69,9 @@ Copyright Notice
    No one reads the legal shrink wrap.  All we do by forcing it under
    their noses is annoy them and waste their time.
 
-   The IETF can better serve its audience by moving boilerplate to the
-   bottom of documents.  This ensures that notices exist, but are
-   minimally annoying.
+   The IETF can better serve its audience by moving boilerplate in RFCs
+   and Internet-Drafts to the bottom of documents.  This ensures that
+   notices exist, but are minimally annoying.
 
 2.  Security Considerations
 
@@ -92,8 +91,13 @@ Acknowledgments
    continuing their ongoing defense of the intellectual property in
    RFCs.
 
-Author's Address
+Authors' Addresses
 
-   Your Name Here
+   Martin Thomson
    Mozilla
-   Email: your.email@example.com
+   Email: mt@lowentropy.net
+
+
+   David Schinazi
+   Google
+   Email: dschinazi.ietf@gmail.com
