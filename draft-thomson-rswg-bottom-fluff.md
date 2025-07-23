@@ -28,6 +28,10 @@ author:
     fullname: "Martin Thomson"
     organization: Mozilla
     email: "mt@lowentropy.net"
+ -
+    fullname: "David Schinazi"
+    organization: Google
+    email: "dschinazi.ietf@gmail.com"
 
 normative:
 
