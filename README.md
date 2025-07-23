@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# Making RFC and Internet-Draft Boilerplate Less Conspicuous
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Making RFC and Internet-Draft Boilerplate Less Conspicuous".
 
 * [Editor's Copy](https://martinthomson.github.io/bottom-fluff/#go.draft-thomson-rswg-bottom-fluff.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-thomson-rswg-bottom-fluff)
