@@ -42,11 +42,13 @@ venue:
   arch: https://example.com/WG
   github: USER/REPO
   latest: https://example.com/LATEST
+pi:
+ toc: false
 
 author:
  -
     fullname: Your Name Here
-    organization: Your Organization Here
+    organization: Mozilla
     email: your.email@example.com
 
 normative:
@@ -57,24 +59,29 @@ informative:
 
 --- abstract
 
-TODO Abstract
-
+This document establishes a new policy for RFCs that moves all the fluff
+(copyright notices and that sort of thing)
+to the bottom of documents.
 
 --- middle
 
-# Introduction
+# New Policy
 
-TODO Introduction
+No one reads the legal shrink wrap.
+All we do by forcing it under their noses is annoy them
+and waste their time.
 
-
-# Conventions and Definitions
-
-{::boilerplate bcp14-tagged}
+The IETF can better serve its audience
+by moving boilerplate to the bottom of documents.
+This ensures that notices exist,
+but are minimally annoying.
 
 
 # Security Considerations
 
-TODO Security
+The obvious argument is that placement of notices is a security feature.
+However, given the wide acceptance of the fact that security by obscurity is not an adequate defense,
+the use of obscurity to improve usability equally cannot be expected to degrade security.
 
 
 # IANA Considerations
@@ -87,4 +94,6 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+The Internet Protocol Mercenary Company (IPMC) are acknowledged
+for continuing their ongoing defense of the intellectual property in RFCs.
+
