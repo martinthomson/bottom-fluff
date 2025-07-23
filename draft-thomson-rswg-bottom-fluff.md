@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "RFC Editor"
+workgroup: "RFC Series Working Group"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "RFC Series Working Group"
+  type: "Editorial Stream Working Group"
+  mail: "rswg@rfc-editor.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/rswg/"
+  github: "martinthomson/bottom-fluff"
+  latest: "https://martinthomson.github.io/bottom-fluff/draft-thomson-rswg-bottom-fluff.html"
 pi:
  toc: false
 
