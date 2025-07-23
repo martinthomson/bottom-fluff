@@ -1,10 +1,9 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Making RFC and Internet-Draft Boilerplate Less Conspicuous"
 category: info
 
 docname: draft-thomson-rswg-bottom-fluff-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: editorial  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -39,7 +38,8 @@ informative:
 
 --- abstract
 
-This document establishes a new policy for RFCs that moves all the fluff
+This document establishes a new policy for RFCs and Internet-Drafts
+that moves all the fluff
 (copyright notices and that sort of thing)
 to the bottom of documents.
 
@@ -52,7 +52,8 @@ All we do by forcing it under their noses is annoy them
 and waste their time.
 
 The IETF can better serve its audience
-by moving boilerplate to the bottom of documents.
+by moving boilerplate in RFCs and Internet-Drafts
+to the bottom of documents.
 This ensures that notices exist,
 but are minimally annoying.
 
