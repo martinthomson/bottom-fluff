@@ -60,6 +60,13 @@ to the bottom of documents.
 This ensures that notices exist,
 but are minimally annoying.
 
+# Precedent
+
+In the beginning, there was no fluff (e.g., {{?RFC0768}}).
+When fluff first started, the "status of this memo" section mainly served as an abstract (e.g., {{?RFC0959}}).
+Later, its substantive contents were moved down to an "abstract" section (e.g., {{?RFC1601}}).
+Eventually, someone noticed that having the fluff before the abstract was unhelpful, so the abstract was placed first (e.g., {{?RFC5545}}).
+We are now following a long tradition of moving the fluff further and further down in the document.
 
 # Security Considerations
 
