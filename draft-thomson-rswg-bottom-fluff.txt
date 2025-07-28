@@ -5,8 +5,8 @@
 RFC Series Working Group                                      M. Thomson
 Internet-Draft                                                   Mozilla
 Intended status: Informational                               D. Schinazi
-Expires: 24 January 2026                                          Google
-                                                            23 July 2025
+Expires: 29 January 2026                                          Google
+                                                            28 July 2025
 
 
        Making RFC and Internet-Draft Boilerplate Less Conspicuous
@@ -50,7 +50,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 January 2026.
+   This Internet-Draft will expire on 29 January 2026.
 
 Copyright Notice
 
@@ -73,7 +73,18 @@ Copyright Notice
    and Internet-Drafts to the bottom of documents.  This ensures that
    notices exist, but are minimally annoying.
 
-2.  Security Considerations
+2.  Precedent
+
+   In the beginning, there was no fluff (e.g., [RFC0768]).  When fluff
+   first started, the "status of this memo" section mainly served as an
+   abstract (e.g., [RFC0959]).  Later, its substantive contents were
+   moved down to an "abstract" section (e.g., [RFC1601]).  Eventually,
+   someone noticed that having the fluff before the abstract was
+   unhelpful, so the abstract was placed first (e.g., [RFC5545]).  We
+   are now following a long tradition of moving the fluff further and
+   further down in the document.
+
+3.  Security Considerations
 
    The obvious argument is that placement of notices is a security
    feature.  However, given the wide acceptance of the fact that
@@ -81,9 +92,28 @@ Copyright Notice
    obscurity to improve usability equally cannot be expected to degrade
    security.
 
-3.  IANA Considerations
+4.  IANA Considerations
 
    This document has no IANA actions.
+
+5.  Informative References
+
+   [RFC0768]  Postel, J., "User Datagram Protocol", STD 6, RFC 768,
+              DOI 10.17487/RFC0768, August 1980,
+              <https://www.rfc-editor.org/rfc/rfc768>.
+
+   [RFC0959]  Postel, J. and J. Reynolds, "File Transfer Protocol",
+              STD 9, RFC 959, DOI 10.17487/RFC0959, October 1985,
+              <https://www.rfc-editor.org/rfc/rfc959>.
+
+   [RFC1601]  Huitema, C., "Charter of the Internet Architecture Board
+              (IAB)", RFC 1601, DOI 10.17487/RFC1601, March 1994,
+              <https://www.rfc-editor.org/rfc/rfc1601>.
+
+   [RFC5545]  Desruisseaux, B., Ed., "Internet Calendaring and
+              Scheduling Core Object Specification (iCalendar)",
+              RFC 5545, DOI 10.17487/RFC5545, September 2009,
+              <https://www.rfc-editor.org/rfc/rfc5545>.
 
 Acknowledgments
 
