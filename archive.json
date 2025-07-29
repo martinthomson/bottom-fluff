@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-27T02:08:23.249025+00:00",
+  "timestamp": "2025-07-29T02:11:16.102202+00:00",
   "repo": "martinthomson/bottom-fluff",
   "labels": [
     {
@@ -56,26 +56,42 @@
       "id": "PR_kwDOPRjwAs6gaJhP",
       "title": "Add Precedent section",
       "url": "https://github.com/martinthomson/bottom-fluff/pull/1",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "DavidSchinazi",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "This mainly started as a dichotomy to find out when the fluff started. I'm not sure having this history lesson in the draft is actually useful, but I figured I might as well write it up.",
       "createdAt": "2025-07-24T08:31:25Z",
-      "updatedAt": "2025-07-24T08:31:26Z",
+      "updatedAt": "2025-07-28T08:38:28Z",
       "baseRepository": "martinthomson/bottom-fluff",
       "baseRefName": "main",
       "baseRefOid": "e6caff2522386d04d3619196a4e013c1b063dead",
       "headRepository": "DavidSchinazi/bottom-fluff",
       "headRefName": "patch-1",
       "headRefOid": "92226d12ba0bbab45575683fd90bbda232159b59",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-07-28T08:38:28Z",
+      "mergedAt": "2025-07-28T08:38:28Z",
+      "mergedBy": "martinthomson",
+      "mergeCommit": {
+        "oid": "79656b06795c34ad49ca170d50b9aa7aea95fee0"
+      },
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOPRjwAs62dtiy",
+          "commit": {
+            "abbreviatedOid": "92226d1"
+          },
+          "author": "martinthomson",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-07-28T08:38:21Z",
+          "updatedAt": "2025-07-28T08:38:21Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
